@@ -1,1 +1,3 @@
+Merged changes from both branches:
 Main branch change
+Development branch change
